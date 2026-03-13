@@ -1,3 +1,4 @@
+
 # Physics-Informed Neural Network (PINN) for Aerofoil Flow
 
 Predicts **velocity (u, v)** and **pressure (p)** fields around an aerofoil using PINNs trained on ANSYS Fluent CFD simulation data.
@@ -41,3 +42,5 @@ aerofoil-pinn/
 
 ## Author
 Karnati Praveen — B.Tech AI & Data Science, Amrita Vishwa Vidyapeetham
+=======
+
