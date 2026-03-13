@@ -1,0 +1,15 @@
+# Model weights (large files)
+best_models.pth
+*.pth
+
+# Generated plots (auto-generated on run)
+*.png
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db
